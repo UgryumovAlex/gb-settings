@@ -1,3 +1,5 @@
+gb.api.endpoint.base-uri: 'localhost:8080'
+
 spring.datasource:
   url: 'jdbc:postgresql://localhost:5432/gb_shop'
   username: '{cipher}AQCWVoWVVT7bm+QkH5MQRzkL9gURK0mXGOjmbeZE1JMBTUZWJX8S8aIhAZJS7LJkev6KBE3gBgVuu+9n4Kw0tQ7Czk54VltJtYmOWAzgQqEjAi9NAPpQsrR74QathGFe6I7HB/4j5RlHT1rXwFyGiiuMh3PpcmMJnzbM3pn/ZcVEMBw3yUXoEiOGHn1cbtK68QbnnvQ7O4tt8yLM/PdmGO1n20UJR9bzjgXNp6abYKp8/TN6Qxk0lTwBBl4vxF5kbBTywgWU2R89NGRHxnX4aFj1AJudfjBB+HkP8x+23dojULc3A1o5RBlM8sI+zzU6Pa7/1cDAOWbV+wzmgIzwCK7sONv9FlWHUiVm0mf0Ufa2SUAog30SeKDXGBqmwtZYaRg='
